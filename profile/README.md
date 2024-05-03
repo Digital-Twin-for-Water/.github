@@ -1,12 +1,18 @@
-## Hi there 👋
+## Digital Twin for Water 👋
 
-<!--
+**Here are some ideas to integrate hydrologic approaches for realizing Digital Twin**
 
-**Here are some ideas to get you started:**
+🙋‍♀️ 1. Development of Digital Twin Core Engine for Hydrologic Approaches
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+🌈 2. Collection of Global and Local Data for Model Input Preparation
+
+
+👩‍💻 3. Modeling Output Visualization on Digital Twin Platform
+
+
+🍿 4. Computer Vision for Emergency Detection
+
+
+🧙 5. 
+
